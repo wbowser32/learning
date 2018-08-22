@@ -1,0 +1,3 @@
+Here is the link to go to do the trainings
+
+https://software-carpentry.org/lessons/index.html
